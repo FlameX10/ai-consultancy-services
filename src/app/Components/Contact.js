@@ -21,7 +21,7 @@ export default function RefinedBookingSection() {
   ];
 
   return (
-    <section id="booking" className="py-20 relative overflow-hidden">
+    <section id="contact" className="py-20 relative overflow-hidden">
       {/* Gentle background elements */}
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute top-20 right-20 w-64 h-64 bg-gradient-to-r from-[#A855F7]/15 to-[#D946EF]/15 rounded-full blur-3xl animate-pulse" style={{animationDuration: '8s'}} />
